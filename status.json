@@ -1,6 +1,6 @@
 {
-  "status": "OFFLINE",
-  "message": "MAINTENANCE",
-  "active": false,
-  "notice": "GAME PATCHED WAITING FOR UPDATE."
+  "status": "ONLINE",
+  "message": "UNDETECTED FULLY SAFE",
+  "active": true,
+  "notice": "GAME HAS BEEN PATCHED. PLEASE WAIT FOR NEW UPDATE."
 }
